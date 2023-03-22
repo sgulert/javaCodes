@@ -1,4 +1,4 @@
-package PROJECTS.teamWorkProjact01;
+package PROJECTS.teamWorkProject01;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class PerfectSquare {
 
         Note: Do not use any built-in library function such as sqrt.
 
-        Example 1:
+        Example 1:"
         Input: 16
         Output: true
         Note: this number is perfect square because 4*4 is 16
