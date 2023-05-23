@@ -2,7 +2,7 @@
   1- arac kiralama icin model marka yakit tipi vites ve gunluk ucret olustur  Kullanicidan aracı alacaği gün saat tarih bilgilerini ve
      teslim edeceği gün saat tarih bilgilerini olusturun ve  bu bilgileri farkli class'ta tutun
 
-  2- kullanıcıya alıcagi gunu tarih ve saat olarak sorun (Lutfen teslim alacaginiz gunu giriniz: (Ornek: 12.04))
+  2- kullanıcıya alıcagi gunu tarih ve saat olarak sorun (Lutfen teslim alacaginiz gunu giriniz: (Ornek: 04))12.
      girdigi bilgileri kontrol edin alış tarihi teslim tarihinden sonra olamaz!!!! kullanici yanlis girerse tekrar sorun
      kullanicidan aldiginiz tarihleri gun ve ay hesabi icin ayri ayri yazdirin
      girdigi tarihler arasındaki günleri hesaplayip ekrana yazdirin

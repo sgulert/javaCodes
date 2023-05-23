@@ -33,7 +33,5 @@ public class C04_Teacher {
                 '}';
     }
 
-    public static void main(String[] args) {
 
-    }
 }

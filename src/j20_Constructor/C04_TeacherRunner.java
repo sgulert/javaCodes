@@ -9,6 +9,10 @@ public class C04_TeacherRunner {//class level
         ogrt1.brans="java";
 
         System.out.println("ogrt1 = " + ogrt1);
+        C04_Teacher ogrt2= new C04_Teacher();
+        System.out.println("ogrt2 = " + ogrt2);
+
+
 
 
 
